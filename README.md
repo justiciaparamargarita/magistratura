@@ -12,3 +12,4 @@ Deriva de: [MPF00729126](https://github.com/justiciaparamargarita/mpf00729126), 
 - 2023-01-20 [Acuse de Recibo SISTEA - Encubrimiento Scanga (CUIJ A-01-00001375-3)](2023/01/20/recibo-consejo-magistratura-scanga-2.md)
 - 2023-01-24 [Denuncia por Encubrimiento contra Fiscal Mario Gustavo Galante](2023/01/24/denuncia-consejo-magistratura-galante.md)
 - 2023-01-24 [Acuse de Recibo SISTEA - Denuncia Encubrimiento Galante (CUIJ A-01-00001964-6)](2023/01/24/recibo-consejo-magistratura-galante.md)
+- 2026-11-12 [Mail «Consulta de estado procesal – CUIJ A-01-00000939-9, A-01-00001375-3 y A-01-00001964-6» · nhk@justiciaparamargarita.ar → disciplina@jusbaires.gob.ar](2026/11/12/consulta-de-estado-procesal-cuij-a-01-00.e1688.md)
