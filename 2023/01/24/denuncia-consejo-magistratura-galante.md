@@ -3,6 +3,7 @@ fecha: "2023-01-24"
 expediente: "MAGISTRATURA"
 original_filename: "galante.pdf"
 fecha_creacion_pdf: "Tue Jan 24 23:08:27 2023 -03"
+firma_digital: "no"
 ---
 
 # Denuncia por Encubrimiento contra Fiscal Mario Gustavo Galante
@@ -195,7 +196,9 @@ https://www.youtube.com/watch?v=jzmWhk7Fs-Y
 
 DNI y Firma
 Figura 1: DNI
+[imagen: foto del anverso del DNI del denunciante]
 
 Figura 2: Firma
+[imagen: firma manuscrita del denunciante con la fecha «24-1-23»]
 
 6

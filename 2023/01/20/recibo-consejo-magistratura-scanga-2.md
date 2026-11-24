@@ -3,6 +3,7 @@ fecha: "2023-01-20"
 expediente: "MAGISTRATURA"
 original_filename: "recibo-consejo-magistratura-2.pdf"
 fecha_creacion_pdf: "Fri Jan 20 00:53:14 2023 -03"
+firma_digital: "no"
 ---
 
 # Acuse de Recibo SISTEA - Encubrimiento Scanga (CUIJ A-01-00001375-3)

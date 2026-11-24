@@ -3,6 +3,7 @@ fecha: "2023-01-13"
 expediente: "MAGISTRATURA"
 original_filename: "Encubrimiento-Scanga-MPF.pdf"
 fecha_creacion_pdf: "Fri Jan 13 17:22:19 2023 -03"
+firma_digital: "no"
 ---
 
 # Denuncia por Encubrimiento contra Fiscal Andrea Verónica Scanga
@@ -57,6 +58,7 @@ Prueba de la mentira de la Fiscal SCANGA respecto a la foliatura son por ejemplo
 la foja 16 o 17 de 225 donde ya aparece el último día de la Historia Clínica. Ver ﬁgura
 1. Otro ejemplo es la ﬁgura 3.
 Figura 1: Foja 17
+[foto: mpf00462972/historia_clinica/transcripciones/017.md]
 
 Miente al decir que no habia faltantes, ya que sí hay faltantes y por partida doble:
 1) Faltan fojas dentro de esa supuesta foliatura, las cuales se enumeran en la sección 3.3.4 y son 13 más otra que fue numerada dos veces.
@@ -452,6 +454,7 @@ se ve en la ﬁgura 2. ¿Como es que a foja 16 sabían que pasaría con mi madre
 
 abril?
 Figura 2: La foja 16 con la última fecha posible
+[foto: mpf00462972/historia_clinica/transcripciones/016.md]
 
 3.2.
 
@@ -1323,5 +1326,6 @@ https://justiciaparamargarita.ar/wp-content/uploads/2023/01/HistoriaClinica.pdf
 17
 
 Figura 3: Fojas 18 y 19 simultáneamente
+[foto: mpf00462972/historia_clinica/transcripciones/018.md] [foto: mpf00462972/historia_clinica/transcripciones/019.md]
 
 18

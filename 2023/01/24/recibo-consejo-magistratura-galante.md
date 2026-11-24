@@ -3,6 +3,7 @@ fecha: "2023-01-24"
 expediente: "MAGISTRATURA"
 original_filename: "documento.pdf"
 fecha_creacion_pdf: "Tue Jan 24 23:09:48 2023 -03"
+firma_digital: "no"
 ---
 
 # Acuse de Recibo SISTEA - Denuncia Encubrimiento Galante (CUIJ A-01-00001964-6)

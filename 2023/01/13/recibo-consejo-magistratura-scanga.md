@@ -3,6 +3,7 @@ fecha: "2023-01-13"
 expediente: "MAGISTRATURA"
 original_filename: "recibo-consejo-magistratura.pdf"
 fecha_creacion_pdf: "Fri Jan 13 20:05:44 2023 -03"
+firma_digital: "no"
 ---
 
 # Acuse de Recibo SISTEA - Denuncia contra Fiscal Scanga (CUIJ A-01-00000939-9)
