@@ -10,6 +10,7 @@ hilo: "e2490"
 responde_a: "e2509"
 origen_email: "fuentes/emails/justiciaparamargarita.ar/2021-10/denuncia-uit-oeste.e2521.eml"
 sha256: "2d78a41c5fc8a72352e5c126015450e6374e9a7c985602e2c1ad9ed621415bc0"
+comentario: "Enviado 6 veces del 17 al 22/10/2021 (cada día suma un renglón al registro); se dejaron el primero (e2496) y este, el último."
 ---
 
 Dia 15/10/21 - Toman la denuncia: no
